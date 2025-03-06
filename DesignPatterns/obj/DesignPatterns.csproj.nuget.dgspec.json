@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj": {}
+    "c:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj": {
+    "c:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj",
+        "projectUniqueName": "c:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj",
         "projectName": "DesignPatterns",
-        "projectPath": "C:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj",
+        "projectPath": "c:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\DesignPatterns.csproj",
         "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
-        "outputPath": "C:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\obj\\",
+        "outputPath": "c:\\Sharkore\\C#\\DesignPattern\\DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

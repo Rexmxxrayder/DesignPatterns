@@ -1,0 +1,15 @@
+c:\Sharkore\C#\DesignPattern\DesignPatterns\bin\Debug\net9.0\DesignPatterns.exe
+c:\Sharkore\C#\DesignPattern\DesignPatterns\bin\Debug\net9.0\DesignPatterns.deps.json
+c:\Sharkore\C#\DesignPattern\DesignPatterns\bin\Debug\net9.0\DesignPatterns.runtimeconfig.json
+c:\Sharkore\C#\DesignPattern\DesignPatterns\bin\Debug\net9.0\DesignPatterns.dll
+c:\Sharkore\C#\DesignPattern\DesignPatterns\bin\Debug\net9.0\DesignPatterns.pdb
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.AssemblyInfoInputs.cache
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.AssemblyInfo.cs
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.csproj.CoreCompileInputs.cache
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.sourcelink.json
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.dll
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\refint\DesignPatterns.dll
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.pdb
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\DesignPatterns.genruntimeconfig.cache
+c:\Sharkore\C#\DesignPattern\DesignPatterns\obj\Debug\net9.0\ref\DesignPatterns.dll
