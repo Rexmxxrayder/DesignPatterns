@@ -1,5 +1,7 @@
-﻿
-using DesignPatterns.DesignPatterns.MediatorPattern;
+﻿using DesignPatterns.Creationnal.SingletonPattern;
 
-PostsDialogBox postsDialogBox = new();
-postsDialogBox.SimulateUserInteraction();
+AppSettings.GetInstance().Set("aa", "aa");
+AppSettings.GetInstance().Set("bb", "bb");
+Console.WriteLine(AppSettings.GetInstance().Get("bb"));
+
+Test.Run();
