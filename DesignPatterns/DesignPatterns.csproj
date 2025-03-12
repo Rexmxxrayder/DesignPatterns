@@ -7,11 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Creationnal\AbstractFactoryPattern\" />
-    <Folder Include="Creationnal\BuilderPattern\" />
-    <Folder Include="Creationnal\BuilderPattern\Builder\" />
-    <Folder Include="Creationnal\FactoryPattern\" />
-  </ItemGroup>
-
 </Project>

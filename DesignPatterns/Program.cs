@@ -1,7 +1,6 @@
-﻿using DesignPatterns.Creationnal.SingletonPattern;
+﻿
+using DesignPatterns.Creationnal.BuilderPattern;
+using DesignPatterns.Creationnal.BuilderPattern.Builder;
 
-AppSettings.GetInstance().Set("aa", "aa");
-AppSettings.GetInstance().Set("bb", "bb");
-Console.WriteLine(AppSettings.GetInstance().Get("bb"));
-
-Test.Run();
+var carBuilder = new CarBuilder();
+carBuilder.SetCarType("aaa").SetSeats(2).SetEngine("vroum");
